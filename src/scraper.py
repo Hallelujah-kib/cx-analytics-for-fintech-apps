@@ -70,8 +70,8 @@ def scrape_all_reviews(count_per_app=500, use_csv=True):
 def run_scheduled_scraper():
     
 
-    logging.info("📅 Scheduling scraper to run daily at 01:00...")
-    schedule.every().day.at("01:00").do(lambda: scrape_all_reviews(count_per_app=500, use_csv=True))
+    logging.info("📅 Scheduling scraper to run every hour...")
+    schedule.every(1).hours.do(lambda: scrape_all_reviews(count_per_app=500, use_csv=True))
 
     while True:
         schedule.run_pending()
