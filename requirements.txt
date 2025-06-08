@@ -1,0 +1,29 @@
+# requirements.txt
+# All necessary packages for running the full analysis pipeline
+
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.12.2
+wordcloud==1.9.3
+
+# NLP
+transformers==4.41.1
+torch==2.3.0
+scikit-learn==1.4.2
+spacy==3.7.4
+
+# Web Scraping
+google-play-scraper==1.2.3  # JoMingyu/google-play-scraper
+
+# Database
+oracledb==2.2.1
+
+# Utility
+python-dotenv==1.0.1
+
+# Jupyter Support
+ipykernel==6.29.4
