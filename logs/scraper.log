@@ -1,0 +1,27 @@
+2025-06-10 18:03:45,002 - INFO - Starting scrape for CBE
+2025-06-10 18:04:08,342 - INFO - Collected 500 reviews for CBE
+2025-06-10 18:04:08,366 - INFO - Saved 500 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\CBE_reviews_20250610_180345.csv
+2025-06-10 18:04:08,374 - INFO - Starting scrape for BOA
+2025-06-10 18:04:10,698 - INFO - Collected 500 reviews for BOA
+2025-06-10 18:04:10,698 - INFO - Saved 500 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\BOA_reviews_20250610_180345.csv
+2025-06-10 18:04:10,698 - INFO - Starting scrape for Dashen
+2025-06-10 22:38:13,759 - INFO - Collected 100 reviews for Dashen
+2025-06-10 22:40:18,000 - INFO - Collected 400 reviews for Dashen
+2025-06-10 22:43:50,712 - INFO - Starting scrape for CBE
+2025-06-10 22:43:59,141 - INFO - Collected 400 reviews for CBE
+2025-06-10 22:43:59,175 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\CBE_reviews_20250610_224350.csv
+2025-06-10 22:43:59,179 - INFO - Starting scrape for BOA
+2025-06-10 22:44:01,440 - INFO - Collected 400 reviews for BOA
+2025-06-10 22:44:01,440 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\BOA_reviews_20250610_224350.csv
+2025-06-10 22:44:01,456 - INFO - Starting scrape for Dashen
+2025-06-10 22:44:04,285 - INFO - Collected 400 reviews for Dashen
+2025-06-10 22:44:04,295 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\Dashen_reviews_20250610_224350.csv
+2025-06-10 23:11:41,243 - INFO - Starting scrape for CBE
+2025-06-10 23:11:43,869 - INFO - Collected 400 reviews for CBE
+2025-06-10 23:11:43,869 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\CBE_reviews_20250610_231141.csv
+2025-06-10 23:11:43,885 - INFO - Starting scrape for BOA
+2025-06-10 23:11:47,114 - INFO - Collected 400 reviews for BOA
+2025-06-10 23:11:47,124 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\BOA_reviews_20250610_231141.csv
+2025-06-10 23:11:47,124 - INFO - Starting scrape for Dashen
+2025-06-10 23:11:49,612 - INFO - Collected 400 reviews for Dashen
+2025-06-10 23:11:49,625 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\Dashen_reviews_20250610_231141.csv
