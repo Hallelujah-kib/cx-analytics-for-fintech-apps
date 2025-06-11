@@ -1,0 +1,133 @@
+2025-06-10 18:03:45,002 - INFO - Starting scrape for CBE
+2025-06-10 18:04:08,342 - INFO - Collected 500 reviews for CBE
+2025-06-10 18:04:08,366 - INFO - Saved 500 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\CBE_reviews_20250610_180345.csv
+2025-06-10 18:04:08,374 - INFO - Starting scrape for BOA
+2025-06-10 18:04:10,698 - INFO - Collected 500 reviews for BOA
+2025-06-10 18:04:10,698 - INFO - Saved 500 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\BOA_reviews_20250610_180345.csv
+2025-06-10 18:04:10,698 - INFO - Starting scrape for Dashen
+2025-06-10 22:38:13,759 - INFO - Collected 100 reviews for Dashen
+2025-06-10 22:40:18,000 - INFO - Collected 400 reviews for Dashen
+2025-06-10 22:43:50,712 - INFO - Starting scrape for CBE
+2025-06-10 22:43:59,141 - INFO - Collected 400 reviews for CBE
+2025-06-10 22:43:59,175 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\CBE_reviews_20250610_224350.csv
+2025-06-10 22:43:59,179 - INFO - Starting scrape for BOA
+2025-06-10 22:44:01,440 - INFO - Collected 400 reviews for BOA
+2025-06-10 22:44:01,440 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\BOA_reviews_20250610_224350.csv
+2025-06-10 22:44:01,456 - INFO - Starting scrape for Dashen
+2025-06-10 22:44:04,285 - INFO - Collected 400 reviews for Dashen
+2025-06-10 22:44:04,295 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\Dashen_reviews_20250610_224350.csv
+2025-06-10 23:11:41,243 - INFO - Starting scrape for CBE
+2025-06-10 23:11:43,869 - INFO - Collected 400 reviews for CBE
+2025-06-10 23:11:43,869 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\CBE_reviews_20250610_231141.csv
+2025-06-10 23:11:43,885 - INFO - Starting scrape for BOA
+2025-06-10 23:11:47,114 - INFO - Collected 400 reviews for BOA
+2025-06-10 23:11:47,124 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\BOA_reviews_20250610_231141.csv
+2025-06-10 23:11:47,124 - INFO - Starting scrape for Dashen
+2025-06-10 23:11:49,612 - INFO - Collected 400 reviews for Dashen
+2025-06-10 23:11:49,625 - INFO - Saved 400 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\scraped_data\Dashen_reviews_20250610_231141.csv
+2025-06-11 02:16:04,459 - INFO - Loaded BOA_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 02:16:04,516 - INFO - Loaded BOA_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 02:16:04,560 - INFO - Loaded BOA_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 02:16:04,604 - INFO - Loaded BOA_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 02:16:04,637 - INFO - Loaded BOA_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 02:16:04,670 - INFO - Loaded BOA_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 02:16:04,700 - INFO - Loaded BOA_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 02:16:04,733 - INFO - Loaded BOA_reviews_20250611_0215.csv: 450 reviews
+2025-06-11 02:16:04,773 - INFO - Loaded CBE_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 02:16:04,808 - INFO - Loaded CBE_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 02:16:04,840 - INFO - Loaded CBE_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 02:16:04,870 - INFO - Loaded CBE_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 02:16:04,902 - INFO - Loaded CBE_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 02:16:04,940 - INFO - Loaded CBE_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 02:16:04,971 - INFO - Loaded CBE_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 02:16:05,004 - INFO - Loaded CBE_reviews_20250611_0215.csv: 450 reviews
+2025-06-11 02:16:05,042 - INFO - Loaded Dashen_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 02:16:05,074 - INFO - Loaded Dashen_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 02:16:05,122 - INFO - Loaded Dashen_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 02:16:05,157 - INFO - Loaded Dashen_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 02:16:05,211 - INFO - Loaded Dashen_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 02:16:05,250 - INFO - Loaded Dashen_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 02:16:05,288 - INFO - Loaded Dashen_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 02:16:05,326 - INFO - Loaded Dashen_reviews_20250611_0216.csv: 450 reviews
+2025-06-11 02:16:05,372 - INFO - Removed 7141 duplicates
+2025-06-11 02:16:05,414 - INFO - Saved 1109 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\cleaned_data\cleaned_reviews_20250611_0216.csv
+2025-06-11 02:31:21,445 - INFO - 🔄 Scraping CBE...
+2025-06-11 02:31:28,999 - INFO - ✅ CBE: 450 reviews
+2025-06-11 02:31:28,999 - INFO - 🔄 Scraping BOA...
+2025-06-11 02:31:36,334 - INFO - ✅ BOA: 450 reviews
+2025-06-11 02:31:36,336 - INFO - 🔄 Scraping Dashen...
+2025-06-11 02:31:43,835 - INFO - ✅ Dashen: 450 reviews
+2025-06-11 02:31:43,882 - INFO - Loaded BOA_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 02:31:43,887 - INFO - Loaded BOA_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 02:31:43,901 - INFO - Loaded BOA_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 02:31:43,912 - INFO - Loaded BOA_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 02:31:43,917 - INFO - Loaded BOA_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 02:31:43,929 - INFO - Loaded BOA_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 02:31:43,936 - INFO - Loaded BOA_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 02:31:43,948 - INFO - Loaded BOA_reviews_20250611_0215.csv: 450 reviews
+2025-06-11 02:31:43,992 - INFO - Loaded BOA_reviews_20250611_0231.csv: 450 reviews
+2025-06-11 02:31:44,000 - INFO - Loaded CBE_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 02:31:44,000 - INFO - Loaded CBE_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 02:31:44,011 - INFO - Loaded CBE_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 02:31:44,019 - INFO - Loaded CBE_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 02:31:44,028 - INFO - Loaded CBE_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 02:31:44,034 - INFO - Loaded CBE_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 02:31:44,043 - INFO - Loaded CBE_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 02:31:44,053 - INFO - Loaded CBE_reviews_20250611_0215.csv: 450 reviews
+2025-06-11 02:31:44,084 - INFO - Loaded CBE_reviews_20250611_0231.csv: 450 reviews
+2025-06-11 02:31:44,091 - INFO - Loaded Dashen_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 02:31:44,099 - INFO - Loaded Dashen_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 02:31:44,104 - INFO - Loaded Dashen_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 02:31:44,113 - INFO - Loaded Dashen_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 02:31:44,119 - INFO - Loaded Dashen_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 02:31:44,127 - INFO - Loaded Dashen_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 02:31:44,134 - INFO - Loaded Dashen_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 02:31:44,141 - INFO - Loaded Dashen_reviews_20250611_0216.csv: 450 reviews
+2025-06-11 02:31:44,178 - INFO - Loaded Dashen_reviews_20250611_0231.csv: 450 reviews
+2025-06-11 02:31:44,249 - INFO - Removed 8491 duplicates
+2025-06-11 02:31:44,278 - INFO - Saved 1109 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\cleaned_data\cleaned_reviews_20250611_0231.csv
+2025-06-11 03:15:47,463 - INFO - This is a test message
+2025-06-11 03:22:50,210 - INFO - 🔄 Scraping CBE...
+2025-06-11 03:22:57,361 - INFO - ✅ CBE: 450 reviews
+2025-06-11 03:22:57,377 - INFO - 🔄 Scraping BOA...
+2025-06-11 03:23:05,044 - INFO - ✅ BOA: 450 reviews
+2025-06-11 03:23:05,044 - INFO - 🔄 Scraping Dashen...
+2025-06-11 03:23:12,040 - INFO - ✅ Dashen: 450 reviews
+2025-06-11 03:23:12,102 - INFO - Loaded BOA_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 03:23:12,117 - INFO - Loaded BOA_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 03:23:12,124 - INFO - Loaded BOA_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 03:23:12,132 - INFO - Loaded BOA_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 03:23:12,137 - INFO - Loaded BOA_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 03:23:12,142 - INFO - Loaded BOA_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 03:23:12,142 - INFO - Loaded BOA_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 03:23:12,142 - INFO - Loaded BOA_reviews_20250611_0215.csv: 450 reviews
+2025-06-11 03:23:12,158 - INFO - Loaded BOA_reviews_20250611_0231.csv: 450 reviews
+2025-06-11 03:23:12,192 - INFO - Loaded BOA_reviews_20250611_0323.csv: 450 reviews
+2025-06-11 03:23:12,207 - INFO - Loaded CBE_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 03:23:12,209 - INFO - Loaded CBE_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 03:23:12,209 - INFO - Loaded CBE_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 03:23:12,224 - INFO - Loaded CBE_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 03:23:12,229 - INFO - Loaded CBE_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 03:23:12,229 - INFO - Loaded CBE_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 03:23:12,240 - INFO - Loaded CBE_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 03:23:12,241 - INFO - Loaded CBE_reviews_20250611_0215.csv: 450 reviews
+2025-06-11 03:23:12,241 - INFO - Loaded CBE_reviews_20250611_0231.csv: 450 reviews
+2025-06-11 03:23:12,275 - INFO - Loaded CBE_reviews_20250611_0322.csv: 450 reviews
+2025-06-11 03:23:12,275 - INFO - Loaded Dashen_reviews_20250610_224350.csv: 400 reviews
+2025-06-11 03:23:12,298 - INFO - Loaded Dashen_reviews_20250610_231141.csv: 400 reviews
+2025-06-11 03:23:12,305 - INFO - Loaded Dashen_reviews_20250610_232143.csv: 100 reviews
+2025-06-11 03:23:12,313 - INFO - Loaded Dashen_reviews_20250610_232231.csv: 400 reviews
+2025-06-11 03:23:12,316 - INFO - Loaded Dashen_reviews_20250610_232602.csv: 400 reviews
+2025-06-11 03:23:12,326 - INFO - Loaded Dashen_reviews_20250610_234939.csv: 400 reviews
+2025-06-11 03:23:12,330 - INFO - Loaded Dashen_reviews_20250611_011919.csv: 200 reviews
+2025-06-11 03:23:12,330 - INFO - Loaded Dashen_reviews_20250611_0216.csv: 450 reviews
+2025-06-11 03:23:12,344 - INFO - Loaded Dashen_reviews_20250611_0231.csv: 450 reviews
+2025-06-11 03:23:12,372 - INFO - Loaded Dashen_reviews_20250611_0323.csv: 450 reviews
+2025-06-11 03:23:12,413 - INFO - Removed 9840 duplicates
+2025-06-11 03:23:12,429 - INFO - Saved 1110 reviews to c:\Users\Lidya\Documents\projects\cx-analytics-for-fintech-apps\data\cleaned_data\cleaned_reviews_20250611_0323.csv
+2025-06-11 03:29:31,164 - INFO - 🔄 Scraping CBE...
+2025-06-11 03:29:38,247 - INFO - ✅ CBE: 450 reviews
+2025-06-11 03:29:38,247 - INFO - 🔄 Scraping BOA...
+2025-06-11 03:29:45,362 - INFO - ✅ BOA: 450 reviews
+2025-06-11 03:29:45,362 - INFO - 🔄 Scraping Dashen...
+2025-06-11 03:29:52,167 - INFO - ✅ Dashen: 450 reviews
