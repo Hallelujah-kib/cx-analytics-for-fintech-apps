@@ -22,7 +22,7 @@ class PlayStoreScraper:
         self.data_dir = os.path.join(self.base_dir, 'data', 'scraped_data')
         self.output_dir = os.path.join(self.base_dir, 'data', 'cleaned_data')
         os.makedirs(self.data_dir, exist_ok=True)
-        os.makedirs(self.logs_dir, exist_ok=True)
+        
 
     def _setup_logging(self):
         """Configure dual logging (file + console)."""
@@ -30,7 +30,7 @@ class PlayStoreScraper:
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
-                logging.FileHandler(os.path.join(self.logs_dir, 'cleaning.log')),
+                logging.FileHandler(os.path.join(self.output_dir, 'cleaning.log')),
                 logging.StreamHandler()
             ]
         )
